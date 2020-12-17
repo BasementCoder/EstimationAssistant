@@ -1,3 +1,3 @@
-# goodsin
-Goods in application
+# estimationAssistant
+Goods in application module
 "# EstimationAssistant" 
