@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="goodsin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>goodsin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="goodsin.war">
+      <element id="artifact" artifact-name="goodsin:war exploded" />
+    </root>
+  </artifact>
+</component>

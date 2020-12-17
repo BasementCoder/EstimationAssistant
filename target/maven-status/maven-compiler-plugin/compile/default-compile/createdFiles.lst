@@ -1,0 +1,17 @@
+com\garagonic\estimationAssistant\repository\UserRepository.class
+com\garagonic\estimationAssistant\tools\Fn.class
+com\garagonic\estimationAssistant\service\MyUserDetailsService.class
+com\garagonic\estimationAssistant\UIEntities\UIGoods.class
+com\garagonic\estimationAssistant\GoodsinApplication.class
+com\garagonic\estimationAssistant\repository\Goods.class
+com\garagonic\estimationAssistant\repository\User.class
+com\garagonic\estimationAssistant\config\SecurityConfiguration.class
+com\garagonic\estimationAssistant\service\GoodsService.class
+com\garagonic\estimationAssistant\common\UIConstants.class
+com\garagonic\estimationAssistant\config\MyWebInitializer.class
+com\garagonic\estimationAssistant\controllers\GoodsController.class
+com\garagonic\estimationAssistant\repository\GoodsRepository.class
+com\garagonic\estimationAssistant\repository\MyUserDetails.class
+com\garagonic\estimationAssistant\ServletInitializer.class
+com\garagonic\estimationAssistant\common\ErrorCodes.class
+com\garagonic\estimationAssistant\config\SMVCconfig.class
